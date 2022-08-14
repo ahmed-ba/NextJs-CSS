@@ -1,0 +1,43 @@
+{
+    "cells":[
+        {
+            "titles":"Intro to Nextjs",
+            "image":"https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"
+        },
+        {
+            "titles":"Basic Sytling in CSS",
+            "image":"https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"
+        },
+        {
+            "titles":"Adaptive Layout With CSS Grid",
+            "image":"https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"
+        },
+        {
+            "titles":"Interactions and Animations",
+            "image":"https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"
+        },
+        {
+            "titles":"SVG Aniamation",
+            "image":"https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"
+        },
+        {
+            "titles":"Components and Props",
+            "image":"https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"
+        },
+        {
+            "titles":"States and Events",
+            "image":"https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"
+        },
+        {
+            "titles":"Stylde Components",
+            "image":"https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"
+        },
+        {
+            "titles":"Static Data",
+            "image":"https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"
+        }
+        
+    ]
+
+
+}
